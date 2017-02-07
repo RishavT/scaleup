@@ -1,7 +1,7 @@
 # ScaleUp
 
-Ideally you're here if you want to learn guitar scales and are bored/tired of looking for online tutorials, but we love you regardlessly.
+Ideally you're here if you want to learn guitar scales and are bored/tired of looking for online tutorials, you're welcome regardless of that :)
 
-Also, we assume you know basic guitar (can play happy birthday).
+Also, we assume you know very basic guitar (can play a simple happy birthday tune, for example).
 
 For starters, head over to the [Major Scale](scales/major.md)
