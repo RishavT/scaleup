@@ -6,4 +6,4 @@
 
 ### Relative Fret Positions
 
-![Relative Major Scale](scales/tabs/relative_major.png)
+![Relative Major Scale](tabs/relative_major.png)
